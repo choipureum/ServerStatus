@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "desktop-outline-api",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-30": 47
+      "2021-07-30": 52
     }
   },
   {
@@ -30,11 +30,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1091,
-    "timeDay": 1091,
-    "timeWeek": 1091,
-    "timeMonth": 1091,
-    "timeYear": 1091,
+    "time": 1033,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MBC_control_API_android",
+    "url": "https://control.imbc.com/App/V2/Timeline?type=android",
+    "icon": "https://favicons.githubusercontent.com/control.imbc.com",
+    "slug": "mbc-control-api-android",
+    "status": "down",
+    "uptime": "45.93%",
+    "uptimeDay": "45.93%",
+    "uptimeWeek": "45.93%",
+    "uptimeMonth": "45.93%",
+    "uptimeYear": "45.93%",
+    "time": 2079,
+    "timeDay": 2079,
+    "timeWeek": 2079,
+    "timeMonth": 2079,
+    "timeYear": 2079,
+    "dailyMinutesDown": {
+      "2021-07-30": 0
+    }
   }
 ]
