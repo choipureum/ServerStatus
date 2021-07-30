@@ -9,6 +9,9 @@ sites:
       - 404
     __dangerous__insecure: true
     
+  - name: MBC_App_v4.0.0
+    url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
+        
 assignees: 
   - choipureum
   
