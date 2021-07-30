@@ -47,7 +47,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ServerStatus
   logoUrl: http://with.mbc.co.kr/images/ci_hmi_v2_08.jpg
-  name: IMBC
+  name: Munhwa BroadCast Project
   navbar:
     - title: Status
       href: /ServerStatus/
