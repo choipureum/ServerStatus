@@ -1,31 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: upptime # choipureum
+repo: upptime # ServerStatus
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+sites: # 개인적으로 사용할 개발한 MBC 모니터링 health-check 
+  - name: MBC v4.0.0 App Main TimeLine
+    url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
+  - name: MBC control API : android
+    url: https://control.imbc.com/App/V2/Timeline?type=android
+    method: GET
+  - name: MBC control API : ios
+    url: https://control.imbc.com/App/V2/Timeline?type=ios
+    method: GET
+  - name: Olympic API
+    url: https://control.imbc.com/WebApi/OlympicsRank
+    method: GET
+  - name: Corona-19 API
+    url: https://control.imbc.com/WebApi/Covid19
+    method: GET
+    
+    # 개인적인 토이프로젝트 모니터링 health-check 
+  - name: 랜덤 할일 생성기 v1.0
+    url: https://choipureum.github.io/todo-generator
 
+assignees: 
+  - choipureum
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  logoUrl: :chart ServerStatus
+  name: ServerStatus
+  introTitle: "This repository contains the open-source uptime monitor and status page for **pureum**, powered by Upptime."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: ServerStatus
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/choipureum/ServerStatus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
