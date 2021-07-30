@@ -46,8 +46,8 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ServerStatus
-  logoUrl: http://with.mbc.co.kr/images/logo-mbc.jpg
-  name: Upptime
+  logoUrl: http://with.mbc.co.kr/images/ci_hmi_v2_08.jpg
+  name: IMBC
   navbar:
     - title: Status
       href: /ServerStatus/
