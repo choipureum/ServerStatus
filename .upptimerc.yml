@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # choipureum
-repo: upptime # ServerStatus
+owner: choipureum # choipureum
+repo: ServerStatus # ServerStatus
 
 sites: # 개인적으로 사용할 개발한 MBC 모니터링 health-check 
   - name: MBC v4.0.0 App Main TimeLine
