@@ -11,7 +11,13 @@ sites:
     
   - name: MBC_App_v4.0.0
     url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
-        
+ 
+  - name: MBC_control_API_android
+    url: https://control.imbc.com/App/V2/Timeline?type=android
+    method: GET
+    expectedStatusCodes:
+      - 400
+    
 assignees: 
   - choipureum
   
