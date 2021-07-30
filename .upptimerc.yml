@@ -12,12 +12,34 @@ sites:
   - name: MBC_App_v4.0.0
     url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
  
-  - name: MBC_control_API_android
+  - name: MBC_control_API(android)
     url: https://control.imbc.com/App/V2/Timeline?type=android
     method: GET
     expectedStatusCodes:
-      - 400
+      - 200
+      
+ - name: MBC_control_API(ios)
+    url: https://control.imbc.com/App/V2/Timeline?type=ios
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: Olympic_API
+    url: https://control.imbc.com/WebApi/OlympicsRank
+    method: GET
+    expectedStatusCodes:
+      - 200
     
+  - name: Corona-19_API
+    url: https://control.imbc.com/WebApi/Covid19
+    method: GET
+    expectedStatusCodes:
+      - 200
+   
+  - name: 랜덤_할일_생성기_v1.0
+    url: https://choipureum.github.io/todo-generator
+
+
 assignees: 
   - choipureum
   
