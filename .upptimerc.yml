@@ -2,29 +2,6 @@ owner: choipureum
 repo: ServerStatus 
 
 sites: 
-    # 개인적으로 사용할 개발한 MBC 모니터링 health-check 
-  - name: MBC v4.0.0 App Main TimeLine
-    url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
-    
-  - name: MBC control API : android
-    url: https://control.imbc.com/App/V2/Timeline?type=android
-    method: GET
-    
-  - name: MBC control API : ios
-    url: https://control.imbc.com/App/V2/Timeline?type=ios
-    method: GET
-    
-  - name: Olympic API
-    url: https://control.imbc.com/WebApi/OlympicsRank
-    method: GET
-    
-  - name: Corona-19 API
-    url: https://control.imbc.com/WebApi/Covid19
-    method: GET
-     
-  - name: 랜덤 할일 생성기 v1.0
-    url: https://choipureum.github.io/todo-generator
-    
   - name: Desktop_Outline_API
     url: $SECRET_SITE_1
     method: GET
