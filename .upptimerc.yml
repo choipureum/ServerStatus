@@ -46,7 +46,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ServerStatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: http://with.mbc.co.kr/images/logo-mbc.jpg
   name: Upptime
   navbar:
     - title: Status
