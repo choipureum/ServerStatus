@@ -34,6 +34,9 @@ sites:
    
   - name: 랜덤_할일_생성기_v1.0
     url: https://choipureum.github.io/todo-generator
+    method: GET
+    expectedStatusCodes:
+      - 200
 
 
 assignees: 
