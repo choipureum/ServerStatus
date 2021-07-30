@@ -12,18 +12,12 @@ sites:
   - name: MBC_App_v4.0.0
     url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
  
-  - name: MBC_control_API(android)
-    url: https://control.imbc.com/App/V2/Timeline?type=android
+  - name: MBC_control_API
+    url: https://control.imbc.com/App/V2/Timeline
     method: GET
     expectedStatusCodes:
       - 200
       
- - name: MBC_control_API(ios)
-    url: https://control.imbc.com/App/V2/Timeline?type=ios
-    method: GET
-    expectedStatusCodes:
-      - 200
-
   - name: Olympic_API
     url: https://control.imbc.com/WebApi/OlympicsRank
     method: GET
