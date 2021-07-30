@@ -1,8 +1,7 @@
-# Change these first
-owner: choipureum # choipureum
-repo: ServerStatus # ServerStatus
+owner: choipureum 
+repo: ServerStatus 
 
-sites: # 개인적으로 사용할 개발한 MBC 모니터링 health-check 
+sites: 
   - name: MBC v4.0.0 App Main TimeLine
     url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
   - name: MBC control API : android
@@ -17,8 +16,6 @@ sites: # 개인적으로 사용할 개발한 MBC 모니터링 health-check
   - name: Corona-19 API
     url: https://control.imbc.com/WebApi/Covid19
     method: GET
-    
-    # 개인적인 토이프로젝트 모니터링 health-check 
   - name: 랜덤 할일 생성기 v1.0
     url: https://choipureum.github.io/todo-generator
 
