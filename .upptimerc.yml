@@ -11,6 +11,8 @@ sites:
     
   - name: MBC_App_v4.0.0
     url: http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y
+    expectedStatusCodes:
+      - 200
  
   - name: MBC_control_API
     url: https://control.imbc.com/App/V2/Timeline
