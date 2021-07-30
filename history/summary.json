@@ -5,18 +5,36 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "desktop-outline-api",
     "status": "down",
-    "uptime": "7.57%",
-    "uptimeDay": "7.57%",
-    "uptimeWeek": "7.57%",
-    "uptimeMonth": "7.57%",
-    "uptimeYear": "7.57%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-30": 0
+      "2021-07-30": 47
     }
+  },
+  {
+    "name": "MBC_App_v4.0.0",
+    "url": "http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y",
+    "icon": "https://favicons.githubusercontent.com/m.imbc.com",
+    "slug": "mbc-app-v4-0-0",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1091,
+    "timeDay": 1091,
+    "timeWeek": 1091,
+    "timeMonth": 1091,
+    "timeYear": 1091,
+    "dailyMinutesDown": {}
   }
 ]
