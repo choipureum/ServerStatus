@@ -16,18 +16,21 @@ sites:
  
   - name: MBC_control_API
     url: https://control.imbc.com/App/V2/Timeline
+    icon: https://favicons.githubusercontent.com/m.imbc.com
     method: GET
     expectedStatusCodes:
       - 200
       
   - name: Olympic_API
     url: https://control.imbc.com/WebApi/OlympicsRank
+    icon: https://favicons.githubusercontent.com/m.imbc.com
     method: GET
     expectedStatusCodes:
       - 200
     
   - name: Corona-19_API
     url: https://control.imbc.com/WebApi/Covid19
+    icon: https://favicons.githubusercontent.com/m.imbc.com
     method: GET
     expectedStatusCodes:
       - 200
