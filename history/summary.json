@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-13": 57,
+      "2021-09-13": 339,
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
@@ -141,9 +141,9 @@
     "url": "https://choipureum.github.io/todo-generator",
     "icon": "https://favicons.githubusercontent.com/choipureum.github.io",
     "slug": "v1-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +152,8 @@
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-13": 0
+    }
   }
 ]
