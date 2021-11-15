@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 56,
+      "2021-11-15": 774,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -129,7 +129,7 @@
   },
   {
     "name": "MBC_App_v4.0.0",
-    "url": "http://m.imbc.com/wiz/mbcapp/home.html?isAuto=Y",
+    "url": "https://m.imbc.com/wiz/mbcapp/v2/main.html?isAuto=Y",
     "icon": "https://favicons.githubusercontent.com/m.imbc.com",
     "slug": "mbc-app-v4-0-0",
     "status": "up",
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 1025,
-    "timeWeek": 1016,
+    "time": 1007,
+    "timeDay": 1027,
+    "timeWeek": 1017,
     "timeMonth": 1014,
-    "timeYear": 1006,
+    "timeYear": 1007,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1961,
-    "timeDay": 1660,
-    "timeWeek": 1884,
-    "timeMonth": 1916,
-    "timeYear": 1961,
+    "time": 1962,
+    "timeDay": 1871,
+    "timeWeek": 1909,
+    "timeMonth": 1923,
+    "timeYear": 1962,
     "dailyMinutesDown": {}
   },
   {
@@ -175,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
+    "timeDay": 152,
+    "timeWeek": 161,
+    "timeMonth": 163,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -193,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 162,
-    "timeWeek": 160,
-    "timeMonth": 159,
+    "timeDay": 150,
+    "timeWeek": 157,
+    "timeMonth": 158,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -210,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 91,
-    "timeWeek": 108,
-    "timeMonth": 141,
-    "timeYear": 133,
+    "time": 134,
+    "timeDay": 176,
+    "timeWeek": 127,
+    "timeMonth": 146,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   }
 ]
