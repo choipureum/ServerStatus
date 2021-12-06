@@ -10,12 +10,12 @@ sites:
     __dangerous__insecure: true
     
   - name: MBC_App_v4.0.0
-    url: https://m.imbc.com/wiz/mbcapp/v2/main.html?isAuto=Y
+    url: https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y
     expectedStatusCodes:
       - 200
  
   - name: MBC_control_API
-    url: https://control.imbc.com/App/V2/Timeline
+    url: https://control.imbc.com/App/V2/HomeTimeline
     icon: https://favicons.githubusercontent.com/m.imbc.com
     method: GET
     expectedStatusCodes:
