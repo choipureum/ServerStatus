@@ -9,7 +9,7 @@ sites:
       - 404
     __dangerous__insecure: true
     
-  - name: MBC_App_v4.0.0
+  - name: MBC_App_v4.2.0
     url: https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y
     expectedStatusCodes:
       - 200
