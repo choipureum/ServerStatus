@@ -2,7 +2,7 @@ owner: choipureum
 repo: ServerStatus 
 
 sites: 
-  - name: Desktop_Outline_API
+  - name: 실패 테스트 사이트
     url: $SECRET_SITE_1
     method: GET
     expectedStatusCodes:
