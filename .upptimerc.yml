@@ -14,6 +14,11 @@ sites:
     expectedStatusCodes:
       - 200
  
+  - name: MBC_연말시상식 투표 서버
+    url: https://program.imbc.com/Concept/2021ent
+    expectedStatusCodes:
+      - 200
+      
   - name: MBC_control_API
     url: https://control.imbc.com/App/V2/HomeTimeline
     icon: https://favicons.githubusercontent.com/m.imbc.com
