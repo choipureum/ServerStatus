@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 911,
+      "2021-12-23": 952,
       "2021-07-30": 1020,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
@@ -170,19 +170,19 @@
     "url": "https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y",
     "icon": "https://favicons.githubusercontent.com/m.imbc.com",
     "slug": "mbc-app-v4-2-0",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 1098,
-    "timeWeek": 1061,
-    "timeMonth": 1032,
-    "timeYear": 1032,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1031,
+    "timeDay": 1064,
+    "timeWeek": 1058,
+    "timeMonth": 1031,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2021-12-23": 0
+      "2021-12-23": 20
     }
   },
   {
