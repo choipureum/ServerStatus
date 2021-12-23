@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-23": 952,
+      "2021-12-23": 1445,
       "2021-07-30": 1020,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
@@ -166,24 +166,22 @@
     }
   },
   {
-    "name": "MBC_App_v4.2.0",
+    "name": "MBC_App_v4.5.1",
     "url": "https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y",
     "icon": "https://favicons.githubusercontent.com/m.imbc.com",
-    "slug": "mbc-app-v4-2-0",
+    "slug": "mbc-app-v4-5-1",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1031,
-    "timeDay": 1064,
-    "timeWeek": 1058,
-    "timeMonth": 1031,
-    "timeYear": 1031,
-    "dailyMinutesDown": {
-      "2021-12-23": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4662,
+    "timeDay": 4662,
+    "timeWeek": 4662,
+    "timeMonth": 4662,
+    "timeYear": 4662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MBC_연말시상식 투표 서버",
@@ -196,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1644,
-    "timeDay": 1617,
-    "timeWeek": 1644,
-    "timeMonth": 1644,
-    "timeYear": 1644,
+    "time": 1609,
+    "timeDay": 1504,
+    "timeWeek": 1609,
+    "timeMonth": 1609,
+    "timeYear": 1609,
     "dailyMinutesDown": {}
   },
   {
@@ -214,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1946,
-    "timeDay": 1620,
-    "timeWeek": 1961,
-    "timeMonth": 1986,
-    "timeYear": 1946,
+    "time": 1943,
+    "timeDay": 1723,
+    "timeWeek": 1851,
+    "timeMonth": 1962,
+    "timeYear": 1943,
     "dailyMinutesDown": {}
   },
   {
@@ -232,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 173,
-    "timeWeek": 173,
+    "time": 195,
+    "timeDay": 163,
+    "timeWeek": 170,
     "timeMonth": 165,
-    "timeYear": 196,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -250,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 163,
+    "time": 181,
+    "timeDay": 161,
     "timeWeek": 162,
     "timeMonth": 160,
-    "timeYear": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -268,11 +266,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 148,
-    "timeWeek": 138,
+    "time": 139,
+    "timeDay": 166,
+    "timeWeek": 139,
     "timeMonth": 136,
-    "timeYear": 138,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   }
 ]
