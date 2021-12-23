@@ -14,8 +14,13 @@ sites:
     expectedStatusCodes:
       - 200
  
-  - name: MBC_연말시상식 투표 서버
+  - name: MBC_연말시상식 투표
     url: https://program.imbc.com/Concept/2021ent
+    expectedStatusCodes:
+      - 200
+  
+  - name: MBC_연기대상 투표
+    url: https://www.imbc.com/broad/tv/ent/template/2021mbc/drama/bestcouple/
     expectedStatusCodes:
       - 200
       
