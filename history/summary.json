@@ -16,9 +16,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-12-24": 322,
       "2021-12-23": 1460,
       "2021-07-30": 1020,
-      "2021-12-24": 59,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
@@ -171,18 +171,20 @@
     "url": "https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y",
     "icon": "https://favicons.githubusercontent.com/m.imbc.com",
     "slug": "mbc-app-v4-5-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2849,
     "timeDay": 2849,
     "timeWeek": 2849,
     "timeMonth": 2849,
     "timeYear": 2849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-24": 1
+    }
   },
   {
     "name": "MBC_연말시상식 투표",
