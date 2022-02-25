@@ -16,9 +16,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-02-25": 783,
       "2021-12-23": 1460,
       "2021-07-30": 1020,
-      "2022-02-25": 67,
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
@@ -252,9 +252,9 @@
     "url": "https://program.imbc.com/Concept/2021ent",
     "icon": "https://favicons.githubusercontent.com/program.imbc.com",
     "slug": "mbc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,16 +263,18 @@
     "timeWeek": 1525,
     "timeMonth": 1666,
     "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "MBC_연기대상 투표",
     "url": "https://www.imbc.com/broad/tv/ent/template/2021mbc/drama/bestcouple/",
     "icon": "https://favicons.githubusercontent.com/www.imbc.com",
     "slug": "mbc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +283,9 @@
     "timeWeek": 1525,
     "timeMonth": 1666,
     "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "MBC_control_API",
