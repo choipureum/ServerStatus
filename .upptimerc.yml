@@ -13,44 +13,7 @@ sites:
     url: https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y
     expectedStatusCodes:
       - 200
- 
-  - name: MBC_연말시상식 투표
-    url: https://program.imbc.com/Concept/2021ent
-    expectedStatusCodes:
-      - 200
-  
-  - name: MBC_연기대상 투표
-    url: https://www.imbc.com/broad/tv/ent/template/2021mbc/drama/bestcouple/
-    expectedStatusCodes:
-      - 200
-      
-  - name: MBC_control_API
-    url: https://control.imbc.com/App/V2/HomeTimeline
-    icon: https://favicons.githubusercontent.com/m.imbc.com
-    method: GET
-    expectedStatusCodes:
-      - 200
-      
-  - name: Olympic_API
-    url: https://control.imbc.com/WebApi/OlympicsRank
-    icon: https://favicons.githubusercontent.com/m.imbc.com
-    method: GET
-    expectedStatusCodes:
-      - 200
-    
-  - name: Corona-19_API
-    url: https://control.imbc.com/WebApi/Covid19
-    icon: https://favicons.githubusercontent.com/m.imbc.com
-    method: GET
-    expectedStatusCodes:
-      - 200
-   
-  - name: 랜덤_할일_생성기_v1.0
-    url: https://choipureum.github.io/todo-generator
-    method: GET
-    expectedStatusCodes:
-      - 200
-    
+               
   - name: 개미는 툰툰
     url: https://antoon.fun/
     method: GET
