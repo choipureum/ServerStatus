@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "26.36%",
     "time": 177,
-    "timeDay": 147,
+    "timeDay": 146,
     "timeWeek": 160,
     "timeMonth": 161,
     "timeYear": 177,
@@ -309,7 +309,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "26.36%",
     "time": 177,
-    "timeDay": 147,
+    "timeDay": 146,
     "timeWeek": 160,
     "timeMonth": 161,
     "timeYear": 177,
@@ -573,8 +573,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   }
 ]
