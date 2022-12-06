@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "31.60%",
     "time": 177,
-    "timeDay": 166,
+    "timeDay": 165,
     "timeWeek": 175,
     "timeMonth": 167,
     "timeYear": 177,
@@ -298,7 +298,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "31.60%",
     "time": 177,
-    "timeDay": 166,
+    "timeDay": 165,
     "timeWeek": 175,
     "timeMonth": 167,
     "timeYear": 177,
@@ -551,8 +551,7 @@
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1440,
-      "2021-12-07": 1440,
-      "2021-12-06": 1440
+      "2021-12-07": 1440
     }
   }
 ]
