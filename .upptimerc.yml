@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
       - 200
  
-  - name: DDD-8 : Exit
+  - name: DDD8 Exit
     url: http://13.124.179.64:8080/swagger-ui/#
     method: GET
     expectedStatusCodes:
