@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.97%",
+    "uptimeYear": "37.98%",
     "time": 171,
     "timeDay": 141,
     "timeWeek": 152,
@@ -273,7 +273,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.97%",
+    "uptimeYear": "37.98%",
     "time": 171,
     "timeDay": 141,
     "timeWeek": 152,
@@ -508,5 +508,23 @@
       "2021-12-30": 1440,
       "2021-12-29": 1440
     }
+  },
+  {
+    "name": "DDD8 Exit",
+    "url": "http://13.124.179.64:8080/swagger-ui/#",
+    "icon": "https://favicons.githubusercontent.com/13.124.179.64",
+    "slug": "ddd-8-exit",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 327,
+    "timeDay": 327,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
+    "dailyMinutesDown": {}
   }
 ]
