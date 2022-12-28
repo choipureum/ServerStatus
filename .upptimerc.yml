@@ -19,6 +19,12 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
+ 
+  - name: DDD-8 : Exit
+    url: http://13.124.179.64:8080/api
+    method: GET
+    expectedStatusCodes:
+      - 200
 
 
 assignees: 
