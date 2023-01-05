@@ -21,7 +21,7 @@ sites:
       - 200
  
   - name: DDD8 Exit Server
-    url: http://13.124.179.64:8080/swagger-ui/#
+    url: https://exitnow.link/swagger-ui/#/
     method: GET
     expectedStatusCodes:
       - 200
