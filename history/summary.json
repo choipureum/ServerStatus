@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "",
     "status": "down",
-    "uptime": "8.73%",
+    "uptime": "8.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.41%",
+    "uptimeMonth": "10.13%",
     "uptimeYear": "46.06%",
     "time": 170,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-02-26": 21,
+      "2023-02-27": 19,
+      "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -226,8 +227,7 @@
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
-      "2022-02-28": 1440,
-      "2022-02-27": 1440
+      "2022-02-28": 1440
     }
   },
   {
@@ -242,10 +242,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1103,
-    "timeDay": 811,
-    "timeWeek": 888,
+    "timeDay": 1189,
+    "timeWeek": 940,
     "timeMonth": 983,
-    "timeYear": 1115,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -256,18 +256,19 @@
     "icon": "https://favicons.githubusercontent.com/exitnow.link",
     "slug": "ddd-8-exit-server",
     "status": "down",
-    "uptime": "48.81%",
+    "uptime": "47.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.40%",
-    "uptimeYear": "48.81%",
+    "uptimeMonth": "10.12%",
+    "uptimeYear": "47.98%",
     "time": 2527,
     "timeDay": 0,
-    "timeWeek": 164,
-    "timeMonth": 736,
+    "timeWeek": 101,
+    "timeMonth": 744,
     "timeYear": 2527,
     "dailyMinutesDown": {
-      "2023-02-26": 24,
+      "2023-02-27": 22,
+      "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
