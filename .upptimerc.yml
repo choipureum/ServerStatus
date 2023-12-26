@@ -13,12 +13,6 @@ sites:
     url: https://m.imbc.com/wiz/mbcapp/v3/index.html?isAuto=Y
     expectedStatusCodes:
       - 200
- 
-  - name: DDD8 Exit Server
-    url: https://exitnow.link/swagger-ui/#/
-    method: GET
-    expectedStatusCodes:
-      - 200
 
 
 assignees: 
